@@ -2,8 +2,9 @@
 
 hi its me whois uhhhh im bored so i made this thing
 
-how do i add images markdown is so confusing
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisitlolxd&show_icons=true&theme=radical)
 
-![fuck you expunged](https://github.com/whoisitlolxd/whoisitlolxd/blob/main/you%20are%20a%20bitch%20TEMPLAte.png)
+this is whois
+![whois all poses](https://github.com/whoisitlolxd/whoisitlolxd/blob/main/whois%20all%20poses.gif)
 
-wait im learning
+please say hi to him im begging you PLEASE
