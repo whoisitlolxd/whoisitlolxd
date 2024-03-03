@@ -1,7 +1,3 @@
-### my profile
+# my profile!!!!
 
-## stop looking
-
-<!--
-**whoisitlolxd/whoisitlolxd** is a uhhhhhmmm uh idk
--->
+hi its me whois uhhhh im bored so i made this thing
